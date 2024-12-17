@@ -165,15 +165,18 @@ python GUI_RUN.py
 
 **Beispiel 1: Interaktive Bildsegmentierung**
 
-![Interaktive Segmentierung](./images/segmentation_example.png)
+![Interaktive Segmentierung](https://github.com/user-attachments/assets/c82757b7-b71d-46c7-b4a6-2c3214313ed4)
+
 
 **Beispiel 2: 3D PCA-Visualisierung**
 
-![3D PCA Visualisierung](./images/pca_visualization.png)
+![3D PCA Visualisierung](https://github.com/user-attachments/assets/699869b5-bf2b-420f-ae41-b0f20c46bf66)
+
 
 **Beispiel 3: Neue Domänenanalyse**
 
-![Neue Domänenanalyse](./images/new_domain_analysis.png)
+![Neue Domänenanalyse](https://github.com/user-attachments/assets/ecc2fac3-91fc-4d92-9195-07c28f6f3c2d)
+
 
 ---
 
